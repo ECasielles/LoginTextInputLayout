@@ -28,6 +28,10 @@ public class LoginPresenter implements ILoginMvp.Presenter {
             view.setMessageError(((Context)view).getResources().getString(R.string.password_length));
         else {
             // Guardar en la clase Application
+
+            // Convertimos el objeto application en LoginApplication
+            ((LoginApplication)((Context)view).getApplicationContext()).setUser(usr, pwd);
+            // Como idea inicial está bien, pero la solución final es guardarlo en un XML
         }
     }
 }
