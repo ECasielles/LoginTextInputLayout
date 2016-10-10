@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mercacortex.loginrelative">
+    package="com.mercacortex.logintextinputlayout">
 
     <application
         android:allowBackup="true"
@@ -8,8 +8,8 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
-        android:name=".LoginApplication">
-        <activity android:name=".LoginRelative_Act">
+        android:name="com.mercacortex.logintextinputlayout.LoginApplication">
+        <activity android:name="com.mercacortex.logintextinputlayout.LoginRelative_Act">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

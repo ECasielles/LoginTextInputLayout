@@ -3,4 +3,7 @@
     <string name="txvUser">Usuario</string>
     <string name="txvPwd">Contraseña</string>
     <string name="chbRemember">Recordar</string>
+    <string name="msgPwd">Introduzca la contraseña</string>
+    <string name="msgUsr">Introduzca el nombre de usuario</string>
+    <string name="login">Login</string>
 </resources>

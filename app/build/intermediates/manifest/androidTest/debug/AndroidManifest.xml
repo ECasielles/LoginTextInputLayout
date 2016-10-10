@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mercacortex.loginrelative.test" >
+    package="com.mercacortex.logintextinputlayout.test" >
 
     <uses-sdk
         android:minSdkVersion="16"
@@ -10,8 +10,8 @@
         android:name="android.support.test.runner.AndroidJUnitRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.mercacortex.loginrelative"
-        android:targetPackage="com.mercacortex.loginrelative" />
+        android:label="Tests for com.mercacortex.logintextinputlayout"
+        android:targetPackage="com.mercacortex.logintextinputlayout" />
 
     <application>
         <uses-library android:name="android.test.runner" />
