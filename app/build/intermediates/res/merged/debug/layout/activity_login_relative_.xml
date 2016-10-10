@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_login_relative_"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.mercacortex.loginrelative.LoginRelative_Act">
+
+    <TextView
+        android:text="@string/txvUser"
+        android:layout_width="@dimen/widgetTextViewWidth"
+        android:layout_height="wrap_content"
+        android:id="@+id/txvUser"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/edtUser"
+        android:layout_alignBaseline="@id/txvUser"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="@dimen/widgetMarginTop"
+        android:layout_toRightOf="@+id/txvUser"
+        android:layout_toEndOf="@id/txvUser"/>
+
+    <TextView
+        android:text="@string/txvPwd"
+        android:layout_width="@dimen/widgetTextViewWidth"
+        android:layout_height="wrap_content"
+        android:id="@+id/txvPwd"
+        android:layout_below="@id/txvUser"
+        android:layout_alignStart="@id/txvUser"
+        android:layout_alignLeft="@id/txvUser"
+        android:layout_marginTop="@dimen/widgetMarginTop"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:id="@+id/edtPwd"
+        android:layout_below="@id/edtUser"
+        android:layout_toRightOf="@+id/txvPwd"
+        android:layout_toEndOf="@id/txvPwd"
+        android:layout_alignBaseline="@id/txvPwd"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="@dimen/widgetMarginTop"/>
+
+    <CheckBox
+        android:text="@string/chbRemember"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/chbRemember"
+        android:layout_below="@+id/edtPwd"
+        android:layout_marginTop="@dimen/widgetMarginTop"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"/>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/chbRemember"
+        android:layout_marginTop="@dimen/widgetMarginTop"
+        android:layout_centerHorizontal="true">
+
+        <Button
+            android:text="@android:string/cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnCancel"
+            style="@style/Widget.AppCompat.Button"/>
+
+        <Button
+            android:text="@android:string/ok"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnOK"
+            style="@style/Widget.AppCompat.Button"/>
+
+    </LinearLayout>
+</RelativeLayout>

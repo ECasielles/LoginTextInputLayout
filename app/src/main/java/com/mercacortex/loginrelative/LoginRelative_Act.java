@@ -50,8 +50,16 @@ public class LoginRelative_Act extends AppCompatActivity implements ILoginMvp.Vi
     }
 
     @Override
-    public void setMessageError(String messageError) {
-        Toast.makeText(this, messageError, Toast.LENGTH_SHORT).show();
+    public void setMessageError(String messageError, int idView) {
+        //Toast.makeText(this, messageError, Toast.LENGTH_SHORT).show();
+        switch (idView){
+            case R.id.edtUser:
+                mEdtUsr.setError(messageError);
+                break;
+            case R.id.edtPwd:
+                mEdtPwd.setError(messageError);
+                break;
+        }
     }
 
     @Override

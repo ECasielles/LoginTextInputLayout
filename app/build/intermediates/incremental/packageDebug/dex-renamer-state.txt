@@ -1,0 +1,7 @@
+#Mon Oct 10 10:55:15 CEST 2016
+base.0=/home/usuario/Desktop/Proyectos/ProyectosAS/LoginRelative/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8c3c3438119251734e889cad5b1bc093d5045bfc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/usuario/Desktop/Proyectos/ProyectosAS/LoginRelative/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bc2943875b7fa562014f7f8453e20f8d969a8e7e/classes.dex
+base.1=/home/usuario/Desktop/Proyectos/ProyectosAS/LoginRelative/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bc2943875b7fa562014f7f8453e20f8d969a8e7e
+file.0=/home/usuario/Desktop/Proyectos/ProyectosAS/LoginRelative/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8c3c3438119251734e889cad5b1bc093d5045bfc/classes.dex

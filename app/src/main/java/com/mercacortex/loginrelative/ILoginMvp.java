@@ -13,7 +13,7 @@ public interface ILoginMvp {
 
     // Composición de interfaces
     interface View {
-        public void setMessageError(String error);
+        public void setMessageError(String error, int edtUser);
     }
 
     interface Presenter {
