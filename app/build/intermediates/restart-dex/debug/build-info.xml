@@ -4,54 +4,32 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="16174679290936"
+    timestamp="9114297782368"
     token="4836966057346585041"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="81" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="25" />
+        duration="0" />
     <task
         name="verifier"
-        duration="1" />
-
-    <artifact
-        location="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-        type="DEX" />
+        duration="0" />
 
     <build
-        timestamp="13418128308640"
+        timestamp="9062070297973"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="13974759488593"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="15015396732386"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-            type="RESOURCES" />
-    </build>
-    <build
-        timestamp="16174679290936"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-            type="DEX" />
-    </build>
+        timestamp="9114297782368"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

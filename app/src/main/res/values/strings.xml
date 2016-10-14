@@ -5,5 +5,5 @@
     <string name="chbRemember">Recordar</string>
     <string name="msgPwd">Introduzca la contraseña</string>
     <string name="msgUsr">Introduzca el nombre de usuario</string>
-    <string name="login">Login</string>
+    <string name="login" translatable="false">Login</string>
 </resources>

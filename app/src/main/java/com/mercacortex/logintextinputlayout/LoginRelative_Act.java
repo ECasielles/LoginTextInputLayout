@@ -1,8 +1,8 @@
 package com.mercacortex.logintextinputlayout;
 
+import android.os.Bundle;
 import android.support.design.widget.TextInputLayout;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.util.Log;
@@ -17,6 +17,8 @@ public class LoginRelative_Act extends AppCompatActivity implements ILoginMvp.Vi
     private Button mBtnLogin;
     private final String TAG = "logintextinputlayout";
     private TextInputLayout tilUser, tilPwd;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -69,6 +71,9 @@ public class LoginRelative_Act extends AppCompatActivity implements ILoginMvp.Vi
         // Comprobar la persistencia del objeto Application
         if (((LoginApplication)getApplicationContext()).getUser() != null)
             Log.d(TAG, ((LoginApplication)getApplicationContext()).getUser().toString());
+
+
+        Log.d(TAG,"Actividad creada con éxito");
     }
 
     /*
@@ -93,9 +98,11 @@ public class LoginRelative_Act extends AppCompatActivity implements ILoginMvp.Vi
         }
     }
 
+
+
     @Override
-    protected void onStop() {
+    protected void onDestroy() {
         super.onStop();
-        Log.d(TAG,"Actividad finalizada");
+        Log.d(TAG,"Actividad destruida");
     }
 }

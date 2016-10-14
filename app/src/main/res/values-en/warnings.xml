@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_empty">Please input a value for this field</string>
+    <string name="password_case">Please input at least an uppercase and an undercase letter</string>
+    <string name="password_digit">Please input at least a digit</string>
+    <string name="password_length">This field must have at least 8 characters</string>
+</resources>
