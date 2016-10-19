@@ -3,6 +3,15 @@
 
     <item
         is-multidex="true"
+        jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_be43bb35b05dafbf2d6e502e5e60e783f64b250a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -21,120 +30,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="856b15eb913549c8f3d8e64006418db6a814368a">
-        <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_47e94647a92c16baf7b72476aeb1866e433b1848/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_03de2d245ea67ea908c486d14dab8755924a5c8b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_36a442abb5a311fe6658a5d17fc2da2ffc338fe2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_c38e5780d664754852cc5bd4fe740010c41b8daf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_a7c55a7a2aa35fb45a1ba043a27c86577f7c5e12/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_11c5e7bd3c998ca0876eab8b02a900e2a80fa8c9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6d9a0f82401884b9bbd457170f5b485796bd9c70/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_85e51c5eb7abf157b06b7dcb028f0685f311a832/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginRelative/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="f589d537bba097aa5357c114889e2df0a1434bd3">
-        <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginRelative/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bc2943875b7fa562014f7f8453e20f8d969a8e7e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginRelative/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="fcb3241ba9febbb95223826603fe01e5d15416a1">
-        <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginRelative/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8c3c3438119251734e889cad5b1bc093d5045bfc/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_d0751a1454ff0f8e44fc27f1162a8284c4c27db0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_be43bb35b05dafbf2d6e502e5e60e783f64b250a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
         <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_fbf6c062f0275a2e53ab8f1fff6b88652c0c0b07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c70f17e36c1b936178095176f473b4564471562a">
+        <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_47e94647a92c16baf7b72476aeb1866e433b1848/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -153,6 +63,24 @@
         revision="23.0.3"
         sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
         <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_9f32cb7d9d42507b94e0adc1a0fa3038e266a30d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_03de2d245ea67ea908c486d14dab8755924a5c8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_36a442abb5a311fe6658a5d17fc2da2ffc338fe2/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -210,6 +138,33 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_c38e5780d664754852cc5bd4fe740010c41b8daf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_a7c55a7a2aa35fb45a1ba043a27c86577f7c5e12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_11c5e7bd3c998ca0876eab8b02a900e2a80fa8c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
@@ -223,8 +178,17 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="df948802491cb26c05aa1a35663aa76c6e8e5064">
+        sha1="1dd884ccbf6d7ad81e83d3e7e12d2d4b46d6c406">
         <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_37c7d096c77c13af949fb40478bdcae916979a7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6d9a0f82401884b9bbd457170f5b485796bd9c70/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -237,12 +201,48 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_85e51c5eb7abf157b06b7dcb028f0685f311a832/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginRelative/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f589d537bba097aa5357c114889e2df0a1434bd3">
+        <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginRelative/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bc2943875b7fa562014f7f8453e20f8d969a8e7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginRelative/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcb3241ba9febbb95223826603fe01e5d15416a1">
+        <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginRelative/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8c3c3438119251734e889cad5b1bc093d5045bfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginRelative/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
         <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginRelative/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_a9f52907249d857b5d8b119be387e612d6abeeca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_d0751a1454ff0f8e44fc27f1162a8284c4c27db0/classes.dex" />
     </item>
 
 </items>

@@ -1,4 +1,4 @@
-#Fri Oct 14 12:57:18 CEST 2016
+#Wed Oct 19 13:43:01 CEST 2016
 base.0=/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_47e94647a92c16baf7b72476aeb1866e433b1848
 renamed.1=classes2.dex
 renamed.0=classes.dex

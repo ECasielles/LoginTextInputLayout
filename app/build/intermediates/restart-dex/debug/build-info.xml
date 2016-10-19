@@ -4,32 +4,33 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="9114297782368"
+    timestamp="10278060422282"
     token="4836966057346585041"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="2751" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="333" />
     <task
         name="verifier"
-        duration="0" />
+        duration="10" />
+
+    <artifact
+        location="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="9062070297973"
+        timestamp="10278060422282"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="9114297782368"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
