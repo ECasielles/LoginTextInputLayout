@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">LoginRelative</string>
+    <string name="app_name">LoginTextInputLayout</string>
     <string name="chbRemember">Remember</string>
     <string name="msgPwd">Fill in the password</string>
     <string name="msgUsr">Fill in your username</string>
     <string name="txvPwd">Password</string>
     <string name="txvUser">User</string>
+    <string name="login" translatable="false">Login</string>
 </resources>

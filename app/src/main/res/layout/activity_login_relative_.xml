@@ -54,13 +54,14 @@
     </android.support.design.widget.TextInputLayout>
 
     <CheckBox
-        android:text="CheckBox"
+        android:text="@string/chbRemember"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/chb_remember"
         android:layout_below="@+id/tilPwd"
         android:layout_marginTop="@dimen/widgetMarginTop"
-        android:layout_alignParentRight="true"/>
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"/>
 
 
     <LinearLayout
@@ -69,16 +70,14 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/chb_remember"
         android:layout_marginTop="@dimen/widgetMarginTop"
-        android:layout_centerHorizontal="true"
-        >
+        android:layout_centerHorizontal="true">
+
         <Button
             android:id="@+id/btnLogin"
             android:text="@string/login"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_centerHorizontal="true"
-            android:layout_below="@id/chb_remember"
             style="@style/Widget.AppCompat.Button"/>
 
-    <LinearLayout/>
+    </LinearLayout>
 </RelativeLayout>

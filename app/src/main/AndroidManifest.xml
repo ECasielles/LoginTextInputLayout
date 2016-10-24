@@ -3,13 +3,14 @@
     package="com.mercacortex.logintextinputlayout">
 
     <application
+        android:name=".LoginApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme"
-        android:name="com.mercacortex.logintextinputlayout.LoginApplication">
-        <activity android:name="com.mercacortex.logintextinputlayout.LoginRelative_Act">
+        android:theme="@style/AppTheme">
+        <activity android:name=".LoginRelative_Act"
+            android:theme="@style/AppTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

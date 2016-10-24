@@ -4,19 +4,19 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="10278060422282"
+    timestamp="15717477713344"
     token="4836966057346585041"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="2751" />
+        duration="222" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="333" />
+        duration="136" />
     <task
         name="verifier"
         duration="10" />
@@ -26,7 +26,7 @@
         type="MAIN" />
 
     <build
-        timestamp="10278060422282"
+        timestamp="15717477713344"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/usuario/Desktop/Proyectos/ProyectosAS/LoginTextInputLayout/app/build/outputs/apk/app-debug.apk"
